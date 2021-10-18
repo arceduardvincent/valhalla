@@ -2,6 +2,7 @@
     * Faster API endpoint creation using our re-usable API classes.
     * Demonstration of writing clean codes and project structure.
     * Reusable API classes that we can re-used on all our model classes.
+         - https://github.com/arceduardvincent/valhalla/blob/master/backend/generic/views.py
     * A consistent API response formats.
     * API docs enabled. 
     * Token Base authentication.
