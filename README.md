@@ -18,10 +18,14 @@
     - Auth Registration
     - Registration verify by email
 * API - User
-    * Create user.
-    * Update(Patch/PUT )user.
-    * Get user.
-    * Delete user.
+    - Create user.
+    - Update(Patch/PUT )user.
+    - Get user.
+    - Delete user.
+
+### Deployment
+1. Docker setup.
+2. Heroku setup.
 
 ### Installation
 1. Install [pipenv](https://pypi.org/project/pipenv/)
