@@ -1,27 +1,27 @@
 ### What you will expect on this sample Project.
-    * Faster API endpoint creation using our re-usable API classes.
-    * Demonstration of writing clean codes and project structure.
-    * Reusable API classes that we can re-used on all our model classes.
-         - https://github.com/arceduardvincent/valhalla/blob/master/backend/generic/views.py
-    * A consistent API response formats.
-    * API docs enabled. 
-    * Token Base authentication.
-    * Use pipenv for python env.
-    * API - AUTH
-        - login.
-        - logout.
-        - change password.
-        - password reset confirm via email.
-        - User PUT/PATCH request.
+* Faster API endpoint creation using our re-usable API classes.
+* Demonstration of writing clean codes and project structure.
+* Reusable API classes that we can re-used on all our model classes.
+     - https://github.com/arceduardvincent/valhalla/blob/master/backend/generic/views.py
+* A consistent API response formats.
+* API docs enabled. 
+* Token Base authentication.
+* Use pipenv for python env.
+* API - AUTH
+    - login.
+    - logout.
+    - change password.
+    - password reset confirm via email.
+    - User PUT/PATCH request.
 
-    * API - Rest AUTH 
-        - Auth Registration
-        - Registration verify by email
-    * API - User
-        * Create user.
-        * Update(Patch/PUT )user.
-        * Get user.
-        * Delete user.
+* API - Rest AUTH 
+    - Auth Registration
+    - Registration verify by email
+* API - User
+    * Create user.
+    * Update(Patch/PUT )user.
+    * Get user.
+    * Delete user.
 
 ### Installation
 1. Install [pipenv](https://pypi.org/project/pipenv/)
