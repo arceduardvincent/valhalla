@@ -5,3 +5,4 @@ env/
 staticfiles/
 mediafiles/
 local_settings.py
+.idea
