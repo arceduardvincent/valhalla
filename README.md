@@ -1,4 +1,4 @@
-### What you will expect on this sample Project.
+### What you will expect on this Project.
 * Faster API endpoint creation using our re-usable API classes.
 * Demonstration of writing clean codes and project structure.
 * Reusable API classes.
