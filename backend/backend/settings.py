@@ -45,7 +45,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.sites',
-    'aws'
+    'aws.apps.AwsConfig',
+    'rest_framework',
 
 ]
 
@@ -53,7 +54,7 @@ LOCAL_APPS = [
     'users.apps.UsersConfig',
 ]
 THIRD_PARTY_APPS = [
-    'rest_framework',
+    #'rest_framework',
     'rest_framework.authtoken',
     'rest_auth',
     'rest_auth.registration',
