@@ -10,5 +10,5 @@ app_name = 'aws'
 urlpatterns = [
     path('', include(router.urls)),
     path('virtualmachine/', viewsets.AWSVirtualMachineAPIList.as_view()),
-    path('virtualmachine/<int:pk>/', viewsets.AWSVirtualMachineAPIDetail.as_view()),
+    path('virtualmachine/<str:pk>/', viewsets.AWSVirtualMachineAPIDetail.as_view()),
 ]

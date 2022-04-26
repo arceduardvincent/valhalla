@@ -3,6 +3,7 @@ from rest_framework.response import Response
 from rest_framework import status
 from . import serializers
 from aws.models import AWSVirtualMachine
+from django.http import Http404
 
 
 class AWSVirtualMachineAPIList(APIView):
