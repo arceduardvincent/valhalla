@@ -29,6 +29,7 @@ urlpatterns = [
          confirm_email),
     path('api/rest-auth/registration/',
          include('rest_auth.registration.urls')),
+    path('api/aws/', include('api.v1.aws.urls')),
 ]
 
 # swagger
