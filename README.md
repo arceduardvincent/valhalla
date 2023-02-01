@@ -45,4 +45,4 @@
     http://localhost:8000/api-docs/
 
 ### Author
-    Eduard James Aban
+    Christopher C. Caisip
