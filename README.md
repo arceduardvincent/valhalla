@@ -45,4 +45,4 @@
     http://localhost:8000/api-docs/
 
 ### Author
-    Eduard James Aban
+    Aaron Adame
