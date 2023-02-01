@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+django-environ = "*"
+djangorestframework = "*"
+drf-yasg = "*"
+fcm-django = "*"
+pillow = "*"
+django-filter = "*"
+django-rest-auth = "*"
+django-allauth = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
