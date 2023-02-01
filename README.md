@@ -45,4 +45,4 @@
     http://localhost:8000/api-docs/
 
 ### Author
-    Christopher C. Caisip
+    Christopher Caisip
